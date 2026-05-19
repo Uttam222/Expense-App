@@ -1,4 +1,4 @@
-# 💸 Expense Management System
+# 💸 Expense App
 
 A full-stack expense management and group expense tracking platform that allows users to manage personal expenses, create groups, split expenses, and handle subscriptions with secure authentication and role-based access control.
 
