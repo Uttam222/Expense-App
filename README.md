@@ -6,8 +6,9 @@ This project is designed to simulate a production-style finance management workf
 
 📂 Repositories
 
-🔗 Frontend: expense-react-client  
-🔗 Backend: expense-server
+🔗 Frontend: [expense-react-client](https://github.com/Uttam222/expense-react-client)
+
+🔗 Backend: [expense-server](https://github.com/Uttam222/expense-server)
 
 ✨ Key Features
 
